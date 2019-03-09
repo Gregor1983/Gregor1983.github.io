@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page10.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2537,31 +2537,6 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rkfIaEGRsu",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            "P": {
-              "text-align": "left",
-              "color": "#000000"
-            }
-          },
-          "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline=\"\" mbr-article=\"\">\n                <blockquote><p><b>Bankverbindung des Fördervereins</b></p><p>Postbank Leipzig</p><p>IBAN: &nbsp;DE67 8601 0090 0084 1579 05</p><p>BIC: &nbsp;&nbsp;&nbsp;&nbsp;PBNKDEFF</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content2-p",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise4",
-          "_cid": "rkfK8Ar0jw",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
